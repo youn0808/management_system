@@ -1,7 +1,8 @@
 import "./App.css";
+import Customer from "./components/Customer";
 
 function App() {
-  return <div className="background-color">hi</div>;
+  return <Customer />;
 }
 
 export default App;
